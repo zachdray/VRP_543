@@ -1,4 +1,4 @@
-﻿fas_id;name;address;postcode;latitude;longitude;local_authority
+﻿ID;name;address;postcode;lat;lon;local_authority
 1;Abergement-Clémenciat;L'Abergement-Clémenciat;01400;46.1534255214;4.92611354223;Ain
 2;Abergement-de-Varey;L'Abergement-de-Varey;01640;46.0091878776;5.42801696363;Ain
 3;Ambérieu-en-Bugey;Ambérieu-en-Bugey;01500;45.9608475114;5.3729257777;Ain
