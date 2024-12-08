@@ -1,4 +1,5 @@
 ﻿city;lat;lng;country;admin_name;demand
+Thil;45.8169214201;5.0184098869;France;Ain;0
 Abergement-Clémenciat;46.1534255214;4.92611354223;France;Ain;2
 Abergement-de-Varey;46.0091878776;5.42801696363;France;Ain;5
 Ambérieu-en-Bugey;45.9608475114;5.3729257777;France;Ain;2
@@ -372,7 +373,6 @@ Sutrieu;45.9311367808;5.64988248129;France;Ain;1
 Talissieu;45.8637167128;5.72090411074;France;Ain;1
 Tenay;45.922698278;5.51453923595;France;Ain;1
 Thézillieu;45.8931883593;5.59700638944;France;Ain;2
-Thil;45.8169214201;5.0184098869;France;Ain;3
 Thoiry;46.2435475879;5.96506297987;France;Ain;4
 Thoissey;46.1700943481;4.79387095814;France;Ain;5
 Torcieu;45.92125055;5.40400282244;France;Ain;5
