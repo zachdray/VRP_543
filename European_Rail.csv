@@ -1,32 +1,34 @@
 ID,name,lat,lon
-r1,Amsterdam Centraal,52.3784,4.9009
-r2,Berlin Hauptbahnhof,52.5250,13.3695
-r3,Brussels-South,50.8369,4.3417
-r4,Zurich Hauptbahnhof,47.3784,8.5400
-r5,Milan Centrale,45.4867,9.2042
-r6,Paris Gare du Nord,48.8808,2.3555
-r7,Vienna Hauptbahnhof,48.1850,16.3705
-r8,Prague Main Station,50.0878,14.4378
-r9,Oslo Central Station,59.9139,10.7522
-r10,Helsinki Central Station,60.1719,24.9414
-r11,Stockholm Central Station,59.3293,18.0650
-r12,Athens Larissa Station,37.9875,23.7333
-r13,Bucharest North Station,44.4396,26.0981
-r14,Sofia Central Station,42.6983,23.3219
-r15,Madrid Atocha,40.4060,-3.6923
-r16,Lisbon Oriente,38.7676,-9.0960
-r17,Osijek Station,45.5557,18.6939
-r18,Podgorica Station,42.4410,19.2640
-r19,Skopje Station,41.9975,21.4275
-r20,Belgrade Center,44.8176,20.4569
-r21,Reykjavik Freight Terminal,64.1355,-21.8954
-r22,Tallinn Station,59.4370,24.7536
-r23,Riga Central Station,56.9496,24.1066
-r24,Vilnius Central Station,54.6820,25.2766
-r25,Minsk Passazhirsky,53.9022,27.5618
-r26,Valletta Freight Port,35.8997,14.5146
-r27,Monaco Monte Carlo Station,43.7384,7.4246
-r28,Andorra la Vella Freight Terminal,42.5078,1.5211
-r29,Luxembourg Station,49.6117,6.13
-r30,Budapest Keleti,47.5000,19.0833
+r1,Rotterdam,51.9244,4.4777
+r2,Duisburg,51.4344,6.7623
+r3,Antwerp,51.2194,4.4025
+r4,Basel,47.5596,7.5886
+r5,Turin,45.0703,7.6869
+r6,Lyon,45.7640,4.8357
+r7,Graz,47.0707,15.4395
+r8,Ostrava,49.8354,18.2925
+r9,Lille,50.6292,3.0573
+r10,Ingolstadt,48.7667,11.4239
+r11,Munich Freight Yard,48.1351,11.5810
+r12,Plzeň,49.7384,13.3736
+r13,Linz,48.3069,14.2858
+r14,Košice,48.7164,21.2611
+r15,Katowice,50.2649,19.0238
+r16,Wrocław,51.1079,17.0385
+r17,Nuremberg,49.4521,11.0767
+r18,Hannover,52.3759,9.7320
+r19,Magdeburg,52.1205,11.6276
+r20,Brescia,45.5416,10.2118
+r21,Cluj-Napoca,46.7712,23.6236
+r22,Szeged,46.2530,20.1414
+r23,Debrecen,47.5316,21.6273
+r24,Timișoara,45.7489,21.2087
+r25,Brno,49.1951,16.6068
+r26,Pilsen,49.7475,13.3776
+r27,Stuttgart,48.7758,9.1829
+r28,Leipzig,51.3397,12.3731
+r29,Erfurt,50.9787,11.0328
+r30,Siegen,50.8748,8.0243
+
+
 
