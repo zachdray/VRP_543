@@ -1,31 +1,32 @@
-﻿ID;name;lat;lon
-r1;Amsterdam Centraal;52.3784;4.9009
-r2;Paris Gare du Nord;48.8808;2.3555
-r3;Berlin Hauptbahnhof;52.5250;13.3695
-r4;Brussels-South;50.8369;4.3417
-r5;Zurich Hauptbahnhof;47.3784;8.5400
-r6;Milan Centrale;45.4867;9.2042
-r7;Barcelona Sants;41.3747;2.1511
-r8;Prague Main Station;50.0878;14.4378
-r9;Vienna Hauptbahnhof;48.1850;16.3705
-r10;Stockholm Central Station;59.3293;18.0650
-r11;Amsterdam Sloterdijk;52.3969;4.8497
-r12;Paris Gare de Lyon;48.8448;2.3747
-r13;Berlin Ostbahnhof;52.5100;13.4531
-r14;Brussels Central;50.8467;4.3499
-r15;Zurich Stadelhofen;47.3731;8.5436
-r16;Milan Porta Garibaldi;45.4850;9.2014
-r17;Barcelona Passeig de Gracia;41.3954;2.1617
-r18;Prague Holešovice;50.1000;14.4528
-r19;Vienna Meidling;48.1881;16.3203
-r20;Stockholm Södra;59.3142;18.0700
-r21;Amsterdam Amstel;52.3550;4.9114
-r22;Paris Montparnasse;48.8405;2.3222
-r23;Berlin Zoologischer Garten;52.5075;13.3380
-r24;Brussels North;50.8583;4.3583
-r25;Zurich Oerlikon;47.4050;8.5583
-r26;Milan Lambrate;45.4783;9.2250
-r27;Barcelona Clot-Arago;41.4028;2.1842
-r28;Prague Smíchov;50.0700;14.4083
-r29;Vienna Westbahnhof;48.1992;16.3222
-r30;Stockholm Skanstull;59.3142;18.0700
+ID,name,lat,lon
+r1,Amsterdam Centraal,52.3784,4.9009
+r2,Berlin Hauptbahnhof,52.5250,13.3695
+r3,Brussels-South,50.8369,4.3417
+r4,Zurich Hauptbahnhof,47.3784,8.5400
+r5,Milan Centrale,45.4867,9.2042
+r6,Paris Gare du Nord,48.8808,2.3555
+r7,Vienna Hauptbahnhof,48.1850,16.3705
+r8,Prague Main Station,50.0878,14.4378
+r9,Oslo Central Station,59.9139,10.7522
+r10,Helsinki Central Station,60.1719,24.9414
+r11,Stockholm Central Station,59.3293,18.0650
+r12,Athens Larissa Station,37.9875,23.7333
+r13,Bucharest North Station,44.4396,26.0981
+r14,Sofia Central Station,42.6983,23.3219
+r15,Madrid Atocha,40.4060,-3.6923
+r16,Lisbon Oriente,38.7676,-9.0960
+r17,Osijek Station,45.5557,18.6939
+r18,Podgorica Station,42.4410,19.2640
+r19,Skopje Station,41.9975,21.4275
+r20,Belgrade Center,44.8176,20.4569
+r21,Reykjavik Freight Terminal,64.1355,-21.8954
+r22,Tallinn Station,59.4370,24.7536
+r23,Riga Central Station,56.9496,24.1066
+r24,Vilnius Central Station,54.6820,25.2766
+r25,Minsk Passazhirsky,53.9022,27.5618
+r26,Valletta Freight Port,35.8997,14.5146
+r27,Monaco Monte Carlo Station,43.7384,7.4246
+r28,Andorra la Vella Freight Terminal,42.5078,1.5211
+r29,Luxembourg Station,49.6117,6.13
+r30,Budapest Keleti,47.5000,19.0833
+
